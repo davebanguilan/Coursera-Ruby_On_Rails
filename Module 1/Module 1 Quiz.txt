@@ -1,0 +1,52 @@
+1.Which of the following is/are true about git? (Select all that apply.)
+
+Once u have cloned
+git uses a .gitignore
+
+2. Given the Course 1, Module 2 Github repository is located at the following url - https://github.com/jhu-ep-coursera/fullstack-course1-module2 - what is the command that will obtain a local instance of the 
+
+git clone
+
+3. What Git properties should be set prior to checking code into your repository? (Select all that apply.)
+
+email
+name
+
+4. What is the default branch for a new repository?
+
+master
+
+5. Given the output of the "git status" command below, what is the state of "test.rb"?
+
+untracked file not managed by git
+
+6. Given the output of the "git diff test.rb" command below, what is the state of "test.rb"?
+
+text "world" was added
+
+7.Which commands will revert the change made below so that we go back to the previous checked-in state? (Select all that apply.)
+
+git revert test.rb
+git checkout -- test.rb
+
+8. You have accidentally deleted test.rb. Which commands will restore the file to its previous committed state? (Select all that apply.)
+
+git checkout -- test.rb
+
+9. You are told to push your master branch to https://git.repo.com/stuff.git . What is the command to add this remote url to your repository?
+
+git remote add repo
+
+10. You are told to update your master branch for the Module 2 course examples located at the following URL: https://github.com/jhu-ep-coursera/fullstack-course1-module2 . Given the state of the repository below, what is the command to update your copy of the examples?
+
+git pull origin master
+
+11. What abbreviation is used to describe the function of Git? (Select all that apply)
+
+vcs
+scm
+
+12. What are the advantages of Git being a Distributed Version Control System? (Select all that apply)
+
+backup
+internet
